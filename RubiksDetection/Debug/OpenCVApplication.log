@@ -1,0 +1,34 @@
+﻿  stdafx.cpp
+  common.cpp
+  OpenCVApplication.cpp
+c:\users\andrei\documents\visual studio 2017\projects\opencv\opencvapplication.cpp(431): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\andrei\documents\visual studio 2017\projects\opencv\opencvapplication.cpp(432): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\andrei\documents\visual studio 2017\projects\opencv\opencvapplication.cpp(433): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\andrei\documents\visual studio 2017\projects\opencv\opencvapplication.cpp(521): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\andrei\documents\visual studio 2017\projects\opencv\opencvapplication.cpp(522): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\andrei\documents\visual studio 2017\projects\opencv\opencvapplication.cpp(525): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\andrei\documents\visual studio 2017\projects\opencv\opencvapplication.cpp(527): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\andrei\documents\visual studio 2017\projects\opencv\opencvapplication.cpp(906): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\andrei\documents\visual studio 2017\projects\opencv\opencvapplication.cpp(914): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  OpenCVApplication.vcxproj -> C:\Users\andrei\Documents\Visual Studio 2017\Projects\OpenCV\Debug\OpenCVApplication.exe
+  OpenCV\dll\Debug\opencv_calib3d2413d.dll
+  OpenCV\dll\Debug\opencv_contrib2413d.dll
+  OpenCV\dll\Debug\opencv_core2413d.dll
+  OpenCV\dll\Debug\opencv_features2d2413d.dll
+  OpenCV\dll\Debug\opencv_ffmpeg2413.dll
+  OpenCV\dll\Debug\opencv_flann2413d.dll
+  OpenCV\dll\Debug\opencv_gpu2413d.dll
+  OpenCV\dll\Debug\opencv_highgui2413d.dll
+  OpenCV\dll\Debug\opencv_imgproc2413d.dll
+  OpenCV\dll\Debug\opencv_legacy2413d.dll
+  OpenCV\dll\Debug\opencv_ml2413d.dll
+  OpenCV\dll\Debug\opencv_nonfree2413d.dll
+  OpenCV\dll\Debug\opencv_objdetect2413d.dll
+  OpenCV\dll\Debug\opencv_ocl2413d.dll
+  OpenCV\dll\Debug\opencv_photo2413d.dll
+  OpenCV\dll\Debug\opencv_stitching2413d.dll
+  OpenCV\dll\Debug\opencv_superres2413d.dll
+  OpenCV\dll\Debug\opencv_video2413d.dll
+  OpenCV\dll\Debug\opencv_videostab2413d.dll
+         19 file(s) copied.
